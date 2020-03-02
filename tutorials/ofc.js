@@ -21,3 +21,4 @@ var john = new person('john', 1980, 'Teacher');
 
 console.log(john);
 console.log(john.calculateAge());
+console.log('OBJECT FUNCTION CONSTRUCTOR ENDS HERE')

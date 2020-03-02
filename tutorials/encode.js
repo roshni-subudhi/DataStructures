@@ -18,3 +18,4 @@ function generate(a,b){
     return encode;
 }
 console.log( generate('1234','abcdefghij') );
+console.log('ENCODE FUNCTION ENDS HERE')
